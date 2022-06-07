@@ -24,7 +24,6 @@
 ## Menú Principal :
 ![Screenshot_20220524-000659_Termux](https://user-images.githubusercontent.com/81049859/169947303-0c486f54-4f98-447e-b844-c6d1ea4646ec.png)
 
-
 ## LoclxCj7 :
 * Instala **LocalXpose** en Termux (según la arquitectura de tu dispositivo) correctamente y sin errores.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
@@ -38,8 +37,9 @@
 https://github.com/Juliocj7/UtilsCj7
 ~~~
 
-* ` apt update && apt upgrade -y `
-
+```bash
+  yes|pkg update && pkg upgrade
+```
 * ` git clone https://github.com/Juliocj7/LoclxCj7 `
 
 * ` cd LoclxCj7 `
