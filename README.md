@@ -23,7 +23,7 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20221228-010431_Termux](https://user-images.githubusercontent.com/81049859/209760603-854a25e6-d454-4f58-a3b3-7b58e3a8bace.png)
+![1000285758](https://github.com/Juliocj7/LoclxCj7/assets/81049859/a0d119ce-1a6b-4657-b29f-e2ccae635dd6)
 
 ## LoclxCj7 :
 * Instala **LocalXpose** en Termux (según la arquitectura de tu dispositivo) correctamente y sin errores.
